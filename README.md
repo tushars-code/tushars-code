@@ -1,4 +1,4 @@
-<img src="https://images.pexels.com/photos/207580/pexels-photo-207580.jpeg" alt="Coding Image" style="width:80%; max-width:1020px; height:320px">
+<img src="https://unsplash.com/photos/a-view-of-a-mountain-range-with-trees-in-the-foreground-IkXtNWhJMrs" alt="Coding Image" style="width:80%; max-width:1020px; height:320px">
 
 
 # Hey there! 👋 I'm **Tushar Yerne**
