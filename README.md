@@ -3,26 +3,17 @@
 
 # Hey there! 👋 I'm **Tushar Yerne**
 
-An aspiring **Research Scientist** passionate about pushing the frontiers of **Artificial Intelligence** and **Machine Learning**.  
-Driven by understanding how **machines learn** and how **computational models** can unravel the mysteries of **human cognition**.
-
-## 🔬 **My Focus Areas:**
-- 🧠 **Natural Language Processing (NLP)**
-- 🔗 **Neural Networks**
-- 🧬 **Computational Neuroscience**
+An aspiring **Software Developer** passionate about pushing the frontiers of **Artificial Intelligence** and **Machine Learning**.  
 
 ## 🚀 **Current Focus:**
 - 📖 Exploring **innovative research** in **neural network architectures** and **transformer models**.
-- 📊 Investigating the **intersection of AI and neuroscience** to create more intelligent, **biologically inspired** systems.
 - ✍️ **Sharing insights** and contributing to projects that drive progress in AI research.
 
 ## 🛠️ **Skills & Tools:**
-- **Programming Languages**: Python, R, MATLAB
-- **Libraries/Frameworks**: TensorFlow, PyTorch, NLTK, SpaCy
-- **Tools**: Jupyter Notebooks, Git, NumPy, Pandas
+- **Programming Languages**: Python, Java, C++
+- **Libraries/Frameworks**: Reactjs, Nodejs, Laravel, Spring, Flask, DJango
 
 ## 🌱 **Future Aspirations:**
-- 🎯 Contribute to **groundbreaking advancements** in **neuro-symbolic AI** and **cognitive modeling**.
 - 🌌 Work on **real-world applications** that bridge the gap between **neuroscience** and **AI**.
 
 
