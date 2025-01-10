@@ -1,4 +1,4 @@
-<img src="https://unsplash.com/photos/a-view-of-a-mountain-range-with-trees-in-the-foreground-IkXtNWhJMrs" alt="Coding Image" style="width:80%; max-width:1020px; height:320px">
+<img src="[https://unsplash.com/photos/a-view-of-a-mountain-range-with-trees-in-the-foreground-IkXtNWhJMrs](https://images.unsplash.com/photo-1672746509961-6340a9808970?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" alt="Coding Image" style="width:80%; max-width:1020px; height:320px">
 
 
 # Hey there! 👋 I'm **Tushar Yerne**
