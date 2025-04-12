@@ -1,3 +1,5 @@
+![Banner](https://i0.wp.com/linkedinheaders.com/wp-content/uploads/2018/02/mountain-lake-header.jpg?fit=1584%2C396&ssl=1)
+
 # Hey there! 👋 I'm **Tushar Yerne**
 
 A passionate **Software Developer** focused on building modern **Mobile Apps** and **Web Applications** using powerful frameworks and tools.
